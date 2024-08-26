@@ -1,0 +1,16 @@
+.thank{
+    margin: 0px;
+   padding: 20px;
+   font-style: italic;
+   background-color: rgb(156, 152, 152);
+   color: black;
+
+}
+.here{
+    background-color: black;
+    color: antiquewhite;
+    font-style: oblique;
+    font-size: 40px;
+    padding-left: 500px;
+    margin: 0px;
+}

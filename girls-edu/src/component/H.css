@@ -1,0 +1,35 @@
+.h{
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+    flex-direction:column;
+}
+
+.hrImage{
+    
+    width: 400px;
+    height: 200px;
+    border: 4px solid black;
+    box-shadow: 2px 2px #736767;
+    padding:20px;
+}
+.name{
+    margin-top: 4px;
+    padding-top: 0px;
+    font-size: larger;
+    font-family: cursive;
+}
+
+.HRname{
+    display:flex;
+    flex-direction: column;
+    column-gap:2px;
+}
+.firstPara{
+    margin-left: 60px;
+}
+.HrIntro{
+    color: #4e9270;
+    font-size: x-large;
+    font-family: fantasy;
+}

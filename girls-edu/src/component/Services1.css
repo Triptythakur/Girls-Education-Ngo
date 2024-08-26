@@ -1,0 +1,13 @@
+.allComp{
+       display : flex;
+       column-gap: 200px;
+
+}
+.PS{
+    display: flex;
+    justify-content: center;
+    color: rgb(241 100 15);
+    font-size: 100px;
+    margin-bottom: 50px;
+    margin-top: 0px;
+}

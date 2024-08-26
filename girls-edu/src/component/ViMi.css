@@ -1,0 +1,12 @@
+.Vision{
+    display: flex;
+    column-gap: 90px;
+    box-sizing: border-box;
+    padding-top: 30px;
+}
+.ig{
+    width: 375px;
+    height: 415px;
+    padding-left: 40px;
+    padding-top:50px;
+}

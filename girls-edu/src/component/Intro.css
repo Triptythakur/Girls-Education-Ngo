@@ -1,0 +1,17 @@
+.ext {
+    display: flex;
+    background-color: rgb(185, 177, 177);
+    height: 300px;
+    color: rgb(28 53 122);
+    margin-top: 0%;
+    column-gap: 200px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+} 
+.f1{
+    margin-top: 45px;
+    width: 200px;
+    font-size:20px;
+    
+    
+}

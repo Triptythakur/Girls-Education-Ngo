@@ -1,0 +1,49 @@
+.fr{
+    padding-top: 40px;
+    display: flex;
+    column-gap: 360px;
+}
+.total{
+   
+    background: linear-gradient(to left, #f7e7d8, #cdd9e3);
+    display: flex;
+    flex-direction: column;
+    row-gap: 100px;
+}
+.totalal{
+    background-color: burlywood;
+}
+.fr2{
+    display: flex;
+    column-gap: 365px;
+
+}
+.DateOfBirth{
+    margin-left: 110px;
+}
+.father{
+    margin-left: 100px;
+}   
+.class
+{
+    margin-left: 180px;
+}
+.name1
+{
+    margin-left: 76px; 
+}
+input{
+    border: 5px solid rgb(171, 171, 237);
+    background-color: rgb(249, 190, 177);
+    height: 40px;
+    border-radius: 10px;
+
+}
+label{
+   
+  
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 500;
+    padding-top: 10px;
+}

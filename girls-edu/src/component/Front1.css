@@ -1,0 +1,24 @@
+
+.main {
+    display: flex;
+    background-color: black;
+    color: aqua;
+    height: 498px;
+    flex-direction: row;
+    box-sizing: border-box;
+    padding: 40px 0px 0px 30px;
+    margin: 0px 0px 0px 0px;
+    gap:80px;    
+}
+.itmm2{
+    display: flex;
+    flex-direction:column;
+    align-items: top;
+    column-gap: 4px ;
+   
+   
+}
+.fr1{
+    display: flex;
+    column-gap: 20px;
+}

@@ -1,0 +1,50 @@
+
+.cpp{
+    margin-top: 0%;
+    width: 945px;
+    height: 1100px;
+    color: brown;
+    background-color:rgb(226 204 184);;
+    margin-left: 150px;
+    position: absolute;
+    border-radius:10px;
+    top:740px;
+    text-shadow: wheat;
+    display: flex;
+    flex-direction:row;
+    column-gap: 20px;
+    flex-wrap: wrap;
+    row-gap: 20px;;
+}
+.js{
+    padding-top: 0%;
+    height: 1200px;
+    
+  
+}
+.ht{
+    padding: 0px;
+    margin: 0px;
+    margin-top: 20px;
+    margin-left: 16px;
+}
+.side{
+    width: 1245px;
+    height: 1200px;
+    position: relative;
+    opacity: 80%;
+
+}
+.hed{
+    padding: 0px;
+    margin: 0px;
+    margin-left:20px;
+}
+.itm{
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+    margin: 0%;
+    padding: 0%;
+    border-radius: 20px;
+}

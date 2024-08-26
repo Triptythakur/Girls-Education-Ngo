@@ -1,0 +1,21 @@
+.addres{
+    background-color: #96bbae;
+    width: 300px;
+    height: 200px;
+    padding: 30px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    border-top: 10px solid #f27979;
+    font-size: 20px;
+    font-weight: 200;
+    font-family: fangsong;
+    color: wheat;
+    text-shadow: 2px 2px 2px #ec5151;
+}
+.clg
+{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 80px;
+    padding-left: 60px;
+}

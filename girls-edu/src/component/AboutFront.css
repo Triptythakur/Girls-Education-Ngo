@@ -1,0 +1,19 @@
+.iiii{
+    width: 600px;
+    height:500px;
+}
+.AFront{
+    display: flex;
+    flex-direction: row;
+   
+}
+.text{
+    
+    font-weight: 500;
+    font-size: xxx-large;
+    padding-top: 150px;
+    padding-left: 80px;
+    background-color: rgb(84 173 184);
+    color: black;
+    font-family: "Oswald", sans-serif;
+}

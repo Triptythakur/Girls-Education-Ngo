@@ -1,0 +1,24 @@
+.Map{
+    width: 1245px;
+    height: 500px;
+}
+.List{
+    list-style: none;
+    background-color:black;
+    margin: 0%;
+    padding:10px 0px 10px 100px;
+    color: rgb(127, 255, 212);
+    
+}
+.cont{
+    background-color: black;
+    padding:60px 0px 10px 100px;
+    margin: 0%;
+    color:azure;
+    font-size: xx-large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
+.L{
+    padding:10px 0px 10px 0px;
+}

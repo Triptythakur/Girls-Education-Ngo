@@ -1,0 +1,16 @@
+.Diva{
+    width: 1247px;
+    opacity: 50%;
+    height: 400px;
+    position: relative;
+}
+.EKK{
+    font-size: 80px;
+    color: #58441f;
+    position: absolute;
+    top: 280px;
+    left: 420px;
+}
+.wide{
+    background-color: aquamarine;
+}

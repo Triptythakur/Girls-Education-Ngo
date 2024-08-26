@@ -1,0 +1,15 @@
+.one{
+    display:flex;
+}
+.first1{
+    display: flex;
+    flex-direction: column;
+    
+    box-sizing: border-box;
+}
+.two {
+    color: #d61818;
+    display: flex;
+    flex-direction: column;
+    row-gap: 4px;
+}

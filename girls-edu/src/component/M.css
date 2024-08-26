@@ -1,0 +1,53 @@
+.VMBox{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: end;
+    row-gap: 20px;
+    color: white;
+    font-family: ui-monospace;
+
+}
+
+.V1{
+    display:flex;
+    justify-content: center;
+    padding-left:20px ;
+    padding-top: 20px;
+    padding-bottom: 0px;
+
+   
+}
+
+
+.VisionBOx{
+    width: 750px;
+    height: 140px;
+    border: 1px solid white;
+    background-color: rgb(62 155 142);
+    border-top-left-radius: 80px;
+    border-bottom-left-radius:80px ;
+    box-sizing: border-box;
+}
+
+.MissionBOx{
+    width: 700px;
+    height: 140px;
+    border: 1px solid white;
+    background-color: #43ad75;;
+    border-top-left-radius: 80px;
+    border-bottom-left-radius:80px ;
+    box-sizing: border-box;
+   
+
+}
+.ValueBOx{
+    
+    width: 650px;
+    height: 140px;
+    border: 1px solid white;
+    background-color: #d28ff1;
+    border-top-left-radius: 80px;
+    border-bottom-left-radius: 80px;
+    box-sizing: border-box;
+}

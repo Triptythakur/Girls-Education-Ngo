@@ -1,0 +1,22 @@
+.imp{
+    width: 500px;
+    height:800px;
+}
+.bord{
+    display: flex;
+
+}
+.into{
+    width: 600px;
+}
+.cnt{
+    font-size: 80px;
+    font-weight: 200;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: aliceblue;
+    text-shadow: 0cm;
+    color:rgb(38, 72, 3)
+}
+.hwd{
+    color:rgb(78, 90, 3);
+}
